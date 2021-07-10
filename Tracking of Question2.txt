@@ -1,0 +1,10 @@
+Time spent on Question 2:
+
+5 mins to understand the workfolw.
+5 mins to setup a project in my mind.
+30 mins to setup framwork.
+30 mins to complete Signup automation.
+2 hrs invested in checking gmail APIs to validate email reception.
+1 hr to automate validation of email validation through UI since the password field was not getting detected even with JavaScript executor.
+10 mins to create Readme file for execution.
+10 mins to upload project on Github.
